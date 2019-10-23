@@ -10,7 +10,7 @@ import {
 import Filter from './Filter';
 
 export default class ListItem extends React.Component {
-  constructor(props){
+  constructor(props) {
     super(props);
   }
   onItemClick() {
